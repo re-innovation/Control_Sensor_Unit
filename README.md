@@ -1,5 +1,6 @@
-# RGBsensor
-This is a colour sensor using an Arduino Nano.
+# Control_Sensor_Unit
+
+This is a sensor unit using an Arduino Nano. It is designed to be able to read either a PIR, a TCS3200 colour sensor or a weight sensor. This is for making interactive art projects to control the projection unit.
 
 This was developed to control videos on a LED projector.
 
