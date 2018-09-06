@@ -198,7 +198,7 @@ void loop(){
     delay(1000);
     weightData = readWeight();
     //Serial.print("W");
-    //    Serial.println(weightData,2);
+    //n    Serial.println(weightData,2);
   }
 
   // No weight to switch off relay
